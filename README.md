@@ -1,5 +1,8 @@
-# kde-widgets
-A collection of custom widgets written for Kubuntu. Refer to individual folders for details.
+# Random Projects
+A collection of random projects in Python. 
+
+## List
+ 1. A clock widget : A custom clock widget written for Kubuntu using GTK webkit and Javascript
 ## Dependencies
 * GTK for python 2.7
 ## Gallery
