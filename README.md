@@ -9,3 +9,4 @@ A collection of random projects in Python.
 ## Gallery
 
 ![Clock](https://github.com/adityapande-1995/kde-widgets/blob/master/animations/clock.gif "Clock")
+![2048](https://github.com/adityapande-1995/Random-Python/blob/master/2048_clone/1.gif "2048")
