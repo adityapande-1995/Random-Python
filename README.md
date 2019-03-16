@@ -6,7 +6,7 @@ A collection of random projects in Python.
  2. 2048_clone: Play the famous Android game 2048 in your command line !
  3. MovieReco : Recommend movies using a part of the Movielens dataset
  4. AR : Augmented reality using simple image processing.
- 5. Kaggle_terror : SOme experiments with kaggle's global terrorism dataset.
+ 5. Kaggle_terror : Some experiments with kaggle's global terrorism dataset.
 # Dependencies
 * GTK for python 2.7
 ## Gallery
