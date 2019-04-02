@@ -7,6 +7,7 @@ A collection of random projects in Python.
  3. MovieReco : Recommend movies using a part of the Movielens dataset and collaborative filtering.
  4. AR : Augmented reality using simple image processing.
  5. Kaggle_terror : Some experiments with kaggle's global terrorism dataset.
+ 6. Rubik's Cube : Text based rubik's cube 
 # Dependencies
 * GTK for python 2.7
 ## Gallery
